@@ -184,10 +184,6 @@ PRODUCT_PACKAGES += \
     libOmxVidcCommon \
     libstagefrighthw
 
-# Power
-PRODUCT_PACKAGES += \
-    power.msm8226
-
 # Qualcomm
 PRODUCT_PACKAGES += \
     libcnefeatureconfig
